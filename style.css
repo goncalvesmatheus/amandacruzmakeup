@@ -86,6 +86,45 @@ nav .brand-logo img {
   width: 100%;
   float: left;
 }
+/*--------------------*/
+/* SERVICES */
+/*--------------------*/
+#services{ 
+  display: inline;
+  padding-bottom: 100px;
+  float: left;
+  width: 100%;
+}
+.services-top{
+  display: inline;  
+  padding-top: 60px;
+  float: left;
+  width: 100%; 
+}
+
+
+.services-top-inner{
+  display: inline;
+  float: left;
+  width: 100%;
+}
+
+
+.services-top-inner h2{
+  color: #fff;
+}
+.grid-example>p{
+  color: #727272;
+  font-size: 15px;
+  line-height: 20px;
+  margin: 8px;
+}
+
+.grid-example>h5{
+  color: #727272;
+  font-size: 21px;
+  border-bottom: 1px solid #503E62;
+}
 
 
 /* Preloader */
@@ -117,9 +156,12 @@ nav .brand-logo img {
   float: left;
   height: auto;
   position: relative;
-  border-left: -10px;
   width: 100%;
-  height: 100%;
+  margin-bottom: -50px;
+}
+#home img{
+  border-bottom: 5px solid #503E62;
+
 }
 
 
@@ -183,6 +225,7 @@ nav .brand-logo img {
   min-height: 300px;
   float: left;
   width: 100%;
+  
 }
 
 
@@ -191,6 +234,7 @@ nav .brand-logo img {
   text-align: center;
   float: left;
   width: 100%;
+  
 }
 
 
