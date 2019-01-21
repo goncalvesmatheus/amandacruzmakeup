@@ -1,0 +1,5 @@
+user-agent: *
+Disallow: /css/
+Disallow: /font/
+Disallow: /js/
+Sitemap: https://www.amandacruzmakeup.com/sitemap.xml
